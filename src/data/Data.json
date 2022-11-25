@@ -1,0 +1,22 @@
+[
+    {
+        "id"         : 1,
+        "name"       : "Asif Talukdar",
+        "age"        : 25,
+        "education"  : "Msc",
+        "phone"      : [
+            {"home"  : "0123456789"},
+            {"office"  : "1234567890" }
+        ]
+    },
+    {
+        "id"         : 2,
+       "name"       :"Yeasin",
+       "age"        : 25,
+       "education"  : "Bsc",
+       "phone"      : [
+        {"home"  : "345678912" },
+        {"office"  : "012343213"}
+    ]
+    }
+]
